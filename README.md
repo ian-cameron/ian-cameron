@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, World! 👋
+> Do you remember the first time you made a computer say it?  There is a special feeling of power to bend the bits of the machines to your will.  Programming is such a satisfying experience- when things are going as planned at least!😄
+
+My introduction to programming was HyperScript in 1992 on a Macintosh SE/30.  The 30 was for the 30MB hard drive that it came with.  (Okay, whatever grandpa!)  By 1996 I started learning HTML, and published my [first webpage](https://web.archive.org/web/20010429043607/http://www.onlinemac.com/users/cameroni/netpage/) complete with a frameset layout, marquee, hit counter, guestbook, webring, and background music!  What a time to be alive! ✨
+
+These days I am a professional software developer at [Kittelson](https://github.com/kittelson) where I get involved in all kinds of digital endevors.  I'm actually *still* learning HTML, but also I have picked up CSS, Javascript, SQL, Bash, Lisp, Ruby, Python, PHP, C# and many frameworks like .NET Core, Rails, React, Django as well as writing the code that runs within larger systems such as Wordpress, vBulletin, AutoCAD and Excel!
+
+I setup GitHub orignally to start quantifying the bits I fiddle with.  I probablby saw the github activity chart mentioned on a blog and wanted to get in on that.  Most of my work these days is done in private repos for the company, but I still get the public activity credit.  I fell hard for that gamification.  Its the only computer game I regularly play.  
+
+I am proud to have participated in a few open source projects with minor contributions including [OpenAI.Net](https://github.com/jodendaal/OpenAI.Net), [Rails](https://github.com/rails/rails), [SharpToken](https://github.com/dmitry-brazhenko/SharpToken), [fscrawler](https://github.com/dadoonet/fscrawler), and [ATSPM](https://github.com/udotdevelopment/ATSPM).  Its exhilarating and empowering when you can help, ever so slightly, with a product of library that you use.  Open source software is ❤️.
+
 
 <!--
 **ian-cameron/ian-cameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
