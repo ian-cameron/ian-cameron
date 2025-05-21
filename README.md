@@ -7,7 +7,7 @@ These days I am a professional software developer at [Kittelson](https://github.
 
 I setup GitHub orignally to start quantifying the bits I fiddle with.  I probably saw the github activity chart mentioned on a blog and wanted to get in on that.  Most of my work these days is done in private repos for the company, but I still get the public activity credit.  I fell hard for that gamification.  Its the only computer game I regularly play.  
 
-I am proud to have participated in a few open source projects with minor contributions including [OpenAI.Net](https://github.com/jodendaal/OpenAI.Net), [Rails](https://github.com/rails/rails), [SharpToken](https://github.com/dmitry-brazhenko/SharpToken), [fscrawler](https://github.com/dadoonet/fscrawler), and [ATSPM](https://github.com/udotdevelopment/ATSPM).  Its exhilarating and empowering when you can help, ever so slightly, with a product of library that you use.  Open source software is ❤️.
+I am proud to have participated in a few open source projects with minor contributions including [OpenAI.Net](https://github.com/jodendaal/OpenAI.Net), [Rails](https://github.com/rails/rails), [SharpToken](https://github.com/dmitry-brazhenko/SharpToken), [fscrawler](https://github.com/dadoonet/fscrawler), and [ATSPM](https://github.com/udotdevelopment/ATSPM).  Its exhilarating and empowering to help -ever so slightly- with a product or library that I use.  I still remember getting the notification that my first PR to someone else's project was merged and it felt great. Open source software is ❤️
 
 
 <!--
